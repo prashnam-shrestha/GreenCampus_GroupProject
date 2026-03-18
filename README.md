@@ -26,9 +26,13 @@ Demonstrates core OOP concepts:
 
 ## How to Run
 
-1. Download the latest JAR file from [Releases](#releases)
-2. Open a terminal / command prompt
-3. Run:
+1. You need Java installed (version 17 or newer is best).  
+   You can check by opening terminal/command prompt and typing:  
+   `java -version`
 
+2. Download the app:  
+   👉 [Click here to download GreenCampusHelper.jar](https://github.com/YOUR-USERNAME/YOUR-REPO/raw/main/ProjectProgram_Group4.jar)
+
+3. Double-click the downloaded file — or open terminal in the download folder and type:  
    ```bash
    java -jar ProjectProgram_Group4.jar
