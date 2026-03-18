@@ -31,7 +31,7 @@ Demonstrates core OOP concepts:
    `java -version`
 
 2. Download the app:  
-   👉 [Click here to download GreenCampusHelper.jar](https://github.com/YOUR-USERNAME/YOUR-REPO/raw/main/ProjectProgram_Group4.jar)
+   👉 [Click here to download GreenCampusHelper.jar](https://github.com/prashnam-shrestha/GreenCampus_GroupProject/raw/main/ProjectProgram_Group4.jar)
 
 3. Double-click the downloaded file — or open terminal in the download folder and type:  
    ```bash
